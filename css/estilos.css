@@ -1,0 +1,31 @@
+main {
+    background-color: rgb(235, 235, 235);
+    width: 80%;
+    margin: 50px auto 50px auto;
+    max-width: 960px;
+    padding: 50px;
+    border-radius: 50px;
+}
+
+header {
+    font-size: 40px; 
+    color: rgb(250, 3, 3);
+    font-weight: bold;
+
+}
+
+img {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
+h3 {
+    width: 80%;
+    margin: 11px 8% 50px 8%;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
