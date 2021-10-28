@@ -1,5 +1,5 @@
 main {
-    background-color: rgb(235, 235, 235);
+    background-color: #ebebeb;
     width: 80%;
     margin: 50px auto 50px auto;
     max-width: 960px;
@@ -14,14 +14,27 @@ header {
 
 }
 
-img {
+.destaque {
     width: 100%;
     max-width: 800px;
     margin: 0 auto 0 auto;
     display: block;
 }
 
-
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer img {
+    width: 40px;
+    margin: 0 10px;
+
+    
+}
+
+footer {
+    width: 960px;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto 50px auto;
 }
